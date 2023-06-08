@@ -14,8 +14,8 @@ Print the output.
 ## PROGRAM:
 ```
 '''
-Developed by:Pradeep raj.
-Register Number:212222240073
+Developed by: yogesh rao S D
+Register Number:212222110055
 '''
 import pandas as p
 df = pd.read_csv('nba.csv')
