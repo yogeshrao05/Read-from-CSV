@@ -25,7 +25,8 @@ print("Number of rows:",len(df.axes[0]))
 print("Number of columns:",len(df.axes[1]))
 ```
 ## OUTPUT:
-![image](https://github.com/Pradeeppachiyappan/Read-from-CSV/assets/118707347/809c836b-6c3e-4c82-905c-8855e30ba021)
+
+![ex-6](https://github.com/yogeshrao05/Read-from-CSV/assets/122008288/dbe0303c-a8f6-446d-aba6-60e42d87659a)
 
 ## RESULT:
 Thus,the experiment was executed successfully.
